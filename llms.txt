@@ -1,0 +1,39 @@
+# BestCraft AI
+
+> AI-powered Chrome extension for Minecraft players. Get instant crafting recipes, mob strategies, building tips, redstone help, and 1.21 Tricky Trials guides — powered by on-device Gemini Nano AI.
+
+BestCraft AI is a free Chrome browser extension that serves as an intelligent Minecraft assistant. It answers questions about crafting recipes, combat strategies, building techniques, redstone circuits, and survival tips. It is updated for Minecraft 1.21 (Tricky Trials) and covers both Java Edition and Bedrock Edition.
+
+## Key Features
+
+- **Crafting Recipes**: Complete recipes for all 300+ craftable items including new 1.21 items (Mace, Crafter block)
+- **Mob Strategies**: Combat tactics for every hostile mob including new 1.21 mobs (Breeze, Bogged)
+- **Building Tips**: Ideas and techniques for all skill levels
+- **Redstone Help**: Step-by-step circuit and automation guides
+- **Survival Guides**: Nether, End, enchanting, farming
+- **On-device AI**: Uses Chrome's Gemini Nano — no data leaves the device
+- **Privacy-first**: No tracking, no account required, no data collection
+
+## Pricing
+
+- Free: 10 questions/day, 200+ curated tips
+- Monthly Premium: $4.99/month — unlimited questions, full Gemini Nano AI
+- Yearly Premium: $49.99/year (save 17%)
+- Lifetime Premium: $84.99 one-time payment
+
+## Technical Details
+
+- Platform: Google Chrome extension (Manifest V3)
+- AI Engine: Chrome's built-in Gemini Nano (Prompt API) with rule-based fallback
+- Privacy: All processing on-device, only extensionpay.com contacted for subscription verification
+- Permissions: storage, alarms (minimal)
+
+## Links
+
+- Chrome Web Store: https://chromewebstore.google.com/detail/bestcraft-minecraft-tips-/lboonnpdebnjagipoeapkdoojdbnjbdg
+- Privacy Policy: https://darkmessiah0071.github.io/bestcraft-ai/privacy.html
+- GitHub: https://github.com/darkmessiah0071/bestcraft-ai
+
+## Disclaimer
+
+BestCraft AI is not affiliated with, endorsed by, or sponsored by Mojang Studios or Microsoft Corporation. Minecraft™ is a trademark of Mojang Studios.
